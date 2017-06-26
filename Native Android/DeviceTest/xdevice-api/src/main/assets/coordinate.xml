@@ -1,0 +1,19 @@
+<?xim version="1.0" encoding="UTF-8"?>
+<xim_config version="0x1601310a">
+    <kled_id_num>3</kled_id_num>
+    <blob_id>
+        <kmean_gray>110</kmean_gray>
+    </blob_id>
+    <stereo>
+        <kgauss_weight_num>0</kgauss_weight_num>
+        <kwindows_min>3.0</kwindows_min>
+        <kwindows_max>6.0</kwindows_max>
+        <kdeta_0>1.7</kdeta_0>
+        <kdeta_1>3.5</kdeta_1>
+        <kdistance_weight>1000.0</kdistance_weight>
+        <ksmooth_windows>3.0</ksmooth_windows>
+    </stereo>
+    <steady3d>
+        <klose_threshold>1</klose_threshold>
+    </steady3d>
+</xim_config>

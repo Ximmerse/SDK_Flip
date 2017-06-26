@@ -1,0 +1,116 @@
+Initialize engine version: 5.5.0f3 (38b4efef76f0)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: NVIDIA GeForce GTX 1060 6GB (ID=0x1c03)
+    Vendor:   NVIDIA
+    VRAM:     6100 MB
+    Driver:   21.21.13.7290
+Begin MonoManager ReloadAssembly
+Platform assembly: E:\SDKX3C01\Integrations\Unity Integration\DeviceTestX3C01[v1.0.0]_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading E:\SDKX3C01\Integrations\Unity Integration\DeviceTestX3C01[v1.0.0]_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: E:\SDKX3C01\Integrations\Unity Integration\DeviceTestX3C01[v1.0.0]_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading E:\SDKX3C01\Integrations\Unity Integration\DeviceTestX3C01[v1.0.0]_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: E:\SDKX3C01\Integrations\Unity Integration\DeviceTestX3C01[v1.0.0]_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading E:\SDKX3C01\Integrations\Unity Integration\DeviceTestX3C01[v1.0.0]_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: E:\SDKX3C01\Integrations\Unity Integration\DeviceTestX3C01[v1.0.0]_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading E:\SDKX3C01\Integrations\Unity Integration\DeviceTestX3C01[v1.0.0]_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+Platform assembly: E:\SDKX3C01\Integrations\Unity Integration\DeviceTestX3C01[v1.0.0]_Data\Managed\UnityEngine.PlaymodeTestsRunner.dll (this message is harmless)
+Loading E:\SDKX3C01\Integrations\Unity Integration\DeviceTestX3C01[v1.0.0]_Data\Managed\UnityEngine.PlaymodeTestsRunner.dll into Unity Child Domain
+Platform assembly: E:\SDKX3C01\Integrations\Unity Integration\DeviceTestX3C01[v1.0.0]_Data\Managed\Google.ProtocolBuffers.dll (this message is harmless)
+Loading E:\SDKX3C01\Integrations\Unity Integration\DeviceTestX3C01[v1.0.0]_Data\Managed\Google.ProtocolBuffers.dll into Unity Child Domain
+- Completed reload, in  0.018 seconds
+Platform assembly: E:\SDKX3C01\Integrations\Unity Integration\DeviceTestX3C01[v1.0.0]_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: E:\SDKX3C01\Integrations\Unity Integration\DeviceTestX3C01[v1.0.0]_Data\Managed\System.dll (this message is harmless)
+desktop: 1920x1080 60Hz; virtual: 1920x1080 at 0,0
+<RI> Initializing input.
+<RI> Input initialized.
+<RI> Initialized touch support.
+The referenced script on this Behaviour (Game Object 'Highlight_PrimaryTrigger') is missing!
+ 
+(Filename:  Line: 1754)
+
+The referenced script on this Behaviour (Game Object 'Highlight_PrimaryShoulder') is missing!
+ 
+(Filename:  Line: 1754)
+
+The referenced script on this Behaviour (Game Object 'Highlight_DpadRight') is missing!
+ 
+(Filename:  Line: 1754)
+
+The referenced script on this Behaviour (Game Object 'Highlight_PrimaryThumb') is missing!
+ 
+(Filename:  Line: 1754)
+
+The referenced script on this Behaviour (Game Object 'Highlight_DpadLeft') is missing!
+ 
+(Filename:  Line: 1754)
+
+The referenced script on this Behaviour (Game Object 'Highlight_Start') is missing!
+ 
+(Filename:  Line: 1754)
+
+The referenced script on this Behaviour (Game Object 'Highlight_PrimaryThumbMove') is missing!
+ 
+(Filename:  Line: 1754)
+
+The referenced script on this Behaviour (Game Object 'Highlight_SecondaryShoulder') is missing!
+ 
+(Filename:  Line: 1754)
+
+The referenced script on this Behaviour (Game Object 'Highlight_Back') is missing!
+ 
+(Filename:  Line: 1754)
+
+The referenced script on this Behaviour (Game Object 'Highlight_DpadUp') is missing!
+ 
+(Filename:  Line: 1754)
+
+The referenced script on this Behaviour (Game Object 'Highlight_DpadDown') is missing!
+ 
+(Filename:  Line: 1754)
+
+UnloadTime: 0.637445 ms
+GVR Unity SDK Version: 1.20
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+The referenced script on this Behaviour (Game Object 'Text') is missing!
+ 
+(Filename:  Line: 1754)
+
+The referenced script on this Behaviour (Game Object 'Text') is missing!
+ 
+(Filename:  Line: 1754)
+
+The referenced script on this Behaviour (Game Object 'Text') is missing!
+ 
+(Filename:  Line: 1754)
+
+tag=XDeviceNative,msg=XDeviceInit() returns 0.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+tag=ControllerInputManager,msg=Initialize successfully.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+tag=ControllerInputManager,msg=ControllerInput List:
+	{ControllerInput name="XCobra-0" handle="0"}
+	{ControllerInput name="XCobra-1" handle="1"}
+	{ControllerInput name="VRDevice" handle="2"}
+
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+tag=VRContext,msg=Initialization Info : family = "Dummy", isPresent = False, refreshRate = 60 Hz.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Setting up 2 worker threads for Enlighten.
+  Thread -> id: 1081c -> priority: 1 
+  Thread -> id: 1037c -> priority: 1 
+tag=XDeviceNative,msg=XDeviceExit() returns 0.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
