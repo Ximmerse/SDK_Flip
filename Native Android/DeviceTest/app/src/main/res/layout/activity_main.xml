@@ -10,6 +10,7 @@
         android:layout_height="wrap_content"
         android:addStatesFromChildren="true"
         android:layout_weight=".02"
+        android:visibility="gone"
         android:background="#99ccff"
         android:gravity="left"
         android:paddingRight="0dip" >
@@ -96,6 +97,7 @@
         android:addStatesFromChildren="true"
         android:layout_weight=".14"
         android:background="#ccff99"
+        android:visibility="gone"
         android:gravity="left"
         android:paddingRight="0dip" >
 

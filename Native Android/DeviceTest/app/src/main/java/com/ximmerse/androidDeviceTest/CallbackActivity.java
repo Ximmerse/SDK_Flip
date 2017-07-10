@@ -1,3 +1,4 @@
+/*
 package com.ximmerse.androidDeviceTest;
 
 import android.app.Activity;
@@ -247,3 +248,4 @@ public class CallbackActivity extends Activity implements  OnClickListener {
         return true;
     }
 }
+*/
